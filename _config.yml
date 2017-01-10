@@ -290,22 +290,20 @@ testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames a
 testimonials:
 
 # Client
-- name: FMM, LLC
-  url: http://themeforest.net
-  url-text: ThemeForest.net
-  avatar: avatar-01.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: themeforest.png
+- name: Auditor Internal Quality Control
+  url: http://www.brusselsairport.be
+  url-text: visit Brussels Airport
+  avatar: avatar-bru.jpg
+  cite: They were always able to meet our business requirements regarding customer feedback. They keep their applications innovative in all aspects and are working every day to further improve them.
+  logo-img: logo-bru.jpg
 
 # Client
-- name: Brussels Airport Company
-  url: http://codecanyon.net
-  url-text: CodeCanyon.net
-  avatar: avatar-02.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: codecanyon.png
-
-
+- name: Head of Department
+  url: http://fmm.com.qa/
+  url-text: visit FMM Qatar
+  avatar: avatar-hia.jpg
+  cite: Alex (visitorM CEO), is an industry leader in airport solutions that deliver continious passenger feedback and innovative tools that help me drive frontline staff perfornamce.
+  logo-img: logo-fmm.jpg
 
 #####################################
 ############# Our Blog ##############
@@ -363,18 +361,6 @@ team:
   #google-plus: '#'
   #vimeo: '#'
 
-# Team Member
-- name: Robert Jablonski
-  tagline: Service Delivery
-  avatar: avatar-04.jpg
-
-  # Social Links
-  #youtube: '#'
-  #pinterest: '#'
-  #facebook: '#'
-  #twitter: '#'
-  #google-plus: '#'
-  #vimeo: '#'
 
 #####################################
 ########## Pricing Tables ###########
