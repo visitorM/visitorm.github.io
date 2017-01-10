@@ -4661,7 +4661,7 @@ section.team-section .team-members-container .team-member .team-member-content .
 }
 
 section.team-section .team-members-container .team-member .team-member-content .social-icons .icons {
-  display: inline-block;
+  display: none;
 }
 
 section.team-section .team-members-container .team-member .team-member-content .social-icons .icons li {
