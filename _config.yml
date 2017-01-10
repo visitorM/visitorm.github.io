@@ -224,7 +224,7 @@ portfolio:
 ##########  Core Features  ##########
 ####################################
 core-title: Core Features
-core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
+core-description: Our solution delivers the tools you need to streamline processes while tracking their impact on customer experiences
 
 #
 # Core Features Left
@@ -232,24 +232,24 @@ core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet 
 core-features-left:
 
 # Feature
-- name: Creative
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-light
+- name: Real-Time Research
+  description: Add new questions to existing questionnaires and collect responses in real-time.
+  icon: pe-7s-chat
 
 # Feature
-- name: Minimalism
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-drop
+- name: Enterprise KPI Goals
+  description: Easy goal setting allows you to set targets and track progress across all the different levels of your business.
+  icon: pe-7s-check
 
 # Feature
-- name: Clean Coding
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-coffee
+- name: Proactive Service Alerts
+  description: Alerts facilitate action at all levels of your organization—from the CEO to the front line.
+  icon: pe-7s-alarm
 
 # Feature
-- name: Friendly
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-smile
+- name: Intuitive user interface
+  description: Cloud based interface makes it easy for every user across your organization to understand and act on feedback.
+  icon: pe-7s-cloud
 
 #
 # Core Features Right
@@ -257,24 +257,24 @@ core-features-left:
 core-features-right:
 
 # Feature
-- name: Branding
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-wine
+- name: Real Time Analytics
+  description: Easily and intuitively slice-and-dice all your information in real time.
+  icon: pe-7s-network
 
 # Feature
-- name: Web Design
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-monitor
+- name: Centralized CX Reports
+  description: Works across every customer touchpoint to present a unified view of your customers’ experiences.
+  icon: pe-7s-graph
 
 # Feature
-- name: Graphic Design
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-crop
+- name: Role-based Access
+  description:  Reports and actions are tailored to each individual and their role in your business.
+  icon: pe-7s-lock
 
 # Feature
-- name: Photography
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-camera
+- name: Big Data Performance
+  description: In-memory analytics enables you to view and understand multidimensional data at scale — instantly
+  icon: pe-7s-science
 
 
 #####################################
@@ -301,7 +301,7 @@ testimonials:
   url: http://fmm.com.qa/
   url-text: visit FMM Qatar
   avatar: avatar-hia.jpg
-  cite: Alex (visitorM CEO), is an industry leader in airport solutions that deliver continuous passenger feedback and innovative tools that help me drive frontline staff perfornamce.
+  cite: Alex (visitorM CEO), is an industry leader in airport solutions that deliver continuous passenger feedback and innovative tools that help me drive frontline staff performance.
   logo-img: logo-fmm.jpg
 
 #####################################
@@ -407,7 +407,7 @@ contact-description: Please enter your details and we will get back to you to le
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: visitorM is focused on delivering a robust, secure and cutting edge customer experience solutions that drive real value for our customers worldwide. From Argentina to Qatar, visitorM is a reliable partner to help continuously improve processes that impact your customer experience.
+footer-description: visitorM is focused on delivering robust, secure and cutting edge customer experience solutions that drive real value for our customers worldwide. From Argentina to Qatar, visitorM is a reliable partner to help continuously improve processes that impact your customer experience.
 footer-copyright-text: visitorM Ltd.&trade;
 footer-copyright-url: http://www.visitorM.com/
 footer-copyright-year: 2013-2017
