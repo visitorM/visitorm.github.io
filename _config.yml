@@ -146,8 +146,7 @@ features:
 ############  Portfolio  ############
 #####################################
 portfolio-title: Projects
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
-
+portfolio-description: From Argentina to Qatar, visitorM is a reliable partner to help continuously improve processes that impact your customer experience.
 #
 # Portfolio Grid
 #
@@ -282,7 +281,7 @@ core-features-right:
 ########### Testimonials ############
 #####################################
 testimonials-title: Testimonials
-testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
+testimonials-description: 
 
 #
 # Testimonials
@@ -408,7 +407,7 @@ contact-description: Please enter your details and we will get back to you to le
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: NvisitorM is focused on delivering a robust, secure and cutting edge customer experience solutions that drive real value for our customers worldwide. From Argentina to Qatar, visitorM is a reliable partner to help continuously improve processes that impact your customer experience.
+footer-description: visitorM is focused on delivering a robust, secure and cutting edge customer experience solutions that drive real value for our customers worldwide. From Argentina to Qatar, visitorM is a reliable partner to help continuously improve processes that impact your customer experience.
 footer-copyright-text: visitorM Ltd.&trade;
 footer-copyright-url: http://www.visitorM.com/
 footer-copyright-year: 2013-2017
